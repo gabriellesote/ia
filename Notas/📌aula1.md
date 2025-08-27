@@ -8,12 +8,14 @@
 <h3> 📌 Notas </h3>
 <p>
 
--Introdução à IA:
+- Introdução à IA:
   - Máquinas não são inteligentes.
   - IA é uma área da ciência da computação, que simula busca simular uma inteligência.
   - ChatGPT, Gemini, DeepSeek não são IAs, são chatbots(ferramentas) que utilizam IA para a contrução do mesmo.
-  - ChatGPT -> É um LLM 
-
+  - ChatGPT -> É um LLM
+  - IA Generativa - Dedo mindinho da IA
+  - Métodos Evolucionários - utiliza da teoria de Dawin para revolucionar sistemas (?)
+  - 
 
   
 </p>
