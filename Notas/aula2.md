@@ -10,5 +10,10 @@
 - Próxima Aula (17/09): Busca Heurística
 - Próxima Aula (24/09): Computação Evolucional
 - Próxima Aula (01/10): Inteligência Coletiva
-- 
 </p>
+
+
+### Distribuição de Pontos A3
+
+- Todas as etapas do A3 valerá 15pontos e o total será a média desses pontos
+- 
