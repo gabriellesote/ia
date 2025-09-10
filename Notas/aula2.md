@@ -10,4 +10,5 @@
 - Próxima Aula (17/09): Busca Heurística
 - Próxima Aula (24/09): Computação Evolucional
 - Próxima Aula (01/10): Inteligência Coletiva
+- 
 </p>
