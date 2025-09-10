@@ -16,4 +16,14 @@
 ### Distribuição de Pontos A3
 
 - Todas as etapas do A3 valerá 15pontos e o total será a média desses pontos
-- 
+
+
+  ## Notas
+  <p>
+    
+    - Caxeiro Viajante -> Problema de roteamento 
+    - Espaço de busca
+    - Função - Objetivo
+    - Heurística
+    - 
+  </p>
