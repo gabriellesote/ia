@@ -1,0 +1,12 @@
+50
+10
+Notebook, 15, 40
+Celular, 10, 30
+Câmera, 20, 60
+Livro, 5, 10
+Carregador, 2, 8
+Fone, 3, 15
+Tablet, 12, 35
+Garrafa, 4, 12
+Casaco, 6, 25
+Tênis, 8, 20
